@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../fpt_day2_starter/hackclubfolder"
+		},
+		{
+			"path": "../../fpt_day2_starter/html-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hackclubfolder"
+	}
+}
